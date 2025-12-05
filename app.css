@@ -1,0 +1,22 @@
+main {
+    display: flex;
+    gap: 20px;
+    min-height: calc(100vh - 30px);
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+
+#getMethod{
+    flex: 1;
+    background-color: aquamarine;
+   
+}
+
+#postMethod{
+    flex: 1;
+    background-color: blueviolet;
+  
+}
+
+/* expand the background color to the full width of the screen */
